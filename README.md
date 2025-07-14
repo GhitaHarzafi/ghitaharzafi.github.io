@@ -104,10 +104,10 @@ The portfolio is designed to be:
 
 ## 📧 Contact
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-- **Portfolio**: [Your Portfolio URL]
+- **Email**: ghitaharzafi@gmail.com
+- **LinkedIn**: 
+- **GitHub**: https://github.com/GhitaHarzafi
+- **Portfolio**: ghitaharzafi.github.io 
 
 ## 🤝 Contributing
 
